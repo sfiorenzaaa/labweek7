@@ -12,6 +12,10 @@ fun HomeView(){
         Text (
             text = "hello shannon!!!"
         )
+
+        Text (
+            text = "helloooooooooo"
+        )
     }
 }
 
