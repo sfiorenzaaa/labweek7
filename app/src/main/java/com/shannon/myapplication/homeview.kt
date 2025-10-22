@@ -10,7 +10,7 @@ import com.shannon.myapplication.ui.theme.MyApplicationTheme
 fun HomeView(){
     Column {
         Text (
-            text = "hello !!!"
+            text = "hello ggg!!!"
 
         )
         Text (
