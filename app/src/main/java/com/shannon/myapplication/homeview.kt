@@ -21,6 +21,11 @@ fun HomeView(){
         Text (
             text = "helloooooooooo"
         )
+
+        Text (
+            text = "wkwkkwkwk"
+        )
+
     }
 }
 
