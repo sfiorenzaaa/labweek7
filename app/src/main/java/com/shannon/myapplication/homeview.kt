@@ -11,6 +11,11 @@ fun HomeView(){
     Column {
         Text (
             text = "hello shannon!!!"
+
+        )
+        Text (
+            text = "hello hdwgreiucgqwiu!!!"
+
         )
 
         Text (
